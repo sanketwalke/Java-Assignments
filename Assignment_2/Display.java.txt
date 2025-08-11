@@ -1,0 +1,15 @@
+import java.util.+;
+public Display{
+public void Display(){
+this.show();
+System.out.println("In Display Method"); 
+}
+public void show(){
+System.out.println("In Show Method"); 
+}
+public static void main(Srting args[])
+{
+Display d = new Display();
+d.Display
+}
+}
